@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage              = "https://github.com/glock45/swifter"
   s.license               = { :type => 'Copyright', :file => 'LICENSE' }
   s.author                = { "Damian Kołakowski" => "kolakowski.damian@gmail.com" }
-  s.ios.deployment_target = "9.0"
+  s.ios.deployment_target = "13.0"
   s.osx.deployment_target = "10.10"
   s.tvos.deployment_target = "9.0"
   s.source                = { :git => "https://github.com/httpswift/swifter.git", :tag => "1.5.0" }
